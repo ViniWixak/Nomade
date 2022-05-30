@@ -1,0 +1,25 @@
+{
+  "name": "nomade",
+  "version": "1.0.0",
+  "description": "Soluções tecnológicas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniWixak/Nomade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniWixak/Nomade/issues"
+  },
+  "homepage": "https://github.com/ViniWixak/Nomade#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
